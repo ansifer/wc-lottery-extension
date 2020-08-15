@@ -1,0 +1,1 @@
+# wc-lottery-extension
