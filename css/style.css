@@ -1,0 +1,4 @@
+.lty-lottery-ticket-panel .lty-ticket-number-wrapper ul li.lty-reserving-ticket {
+    opacity: 0.5;
+    cursor: progress;
+}
